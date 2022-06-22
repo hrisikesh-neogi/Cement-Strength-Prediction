@@ -9,3 +9,10 @@ Open the terminal and paste the command -
 ```
 conda activate ./env
 ```
+
+### Now run the project
+
+``` 
+python main.py
+
+```
